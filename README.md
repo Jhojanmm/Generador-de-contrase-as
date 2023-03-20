@@ -1,16 +1,5 @@
-# generador
+Generador de Contraseñas en Flutter
 
-A new Flutter project.
+Esta es una aplicación simple en Flutter para generar contraseñas aleatorias basadas en las preferencias del usuario. El usuario puede seleccionar si desea incluir mayúsculas, minúsculas, números y caracteres especiales en su contraseña generada. La aplicación es fácil de usar y cuenta con una interfaz de usuario simple y agradable.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La aplicación utiliza la clase Random de Dart para generar contraseñas aleatorias de 16 caracteres. El usuario también puede generar múltiples contraseñas simplemente presionando el botón de "Generar Contraseña" de nuevo.
